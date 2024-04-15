@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **RajShringi/RajShringi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 👋 Hello, I'm Raj Shringi!
+💻 With a background in software development, I've immersed myself in the world of coding, continuously learning and growing along the way.  
+🚀 Proficient in a variety of technologies, including HTML, CSS, JavaScript, and the MENR stack, I love turning ideas into reality through coding.  
+🐦 You can follow me on Twitter: [RajShringi1](https://twitter.com/RajShringi1)  
+📝 Check out my articles on [Hashnode](https://rajshringi.hashnode.dev/)
